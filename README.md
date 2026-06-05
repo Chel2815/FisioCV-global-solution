@@ -124,20 +124,8 @@ Feedback Visual em Tempo Real (OpenCV)
 
 ## 👥 Integrantes
 
-- Nome Completo 1 — RM XXXXX
-- Nome Completo 2 — RM XXXXX
-- Nome Completo 3 — RM XXXXX
-
----
-
-## 📸 Captura de tela
-
-> *(adicionar screenshot aqui)*
-
----
-
-## ⚠️ Requisitos de hardware
-
-- Webcam funcional (resolução mínima 640×480)
-- CPU com suporte a AVX (MediaPipe requer instrução AVX em algumas plataformas)
-- Python 3.10 ou superior
+RM 99856 – Marchel Augusto
+RM 557538 – David Cordeiro
+RM 555619 – Tiago Morais
+RM 557065 – Vinicius Augusto
+RM 556892 – Guilherme Lunghini
