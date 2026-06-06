@@ -47,8 +47,13 @@ pip install -r requirements.txt
 
 **Webcam padrão (com menu de seleção):**
 ```bash
+python find_camera.py
+````
+Rodar o comando acima para identificar a Webcam utilizada, após isso rodar o comando:
+
+````
 python main.py
-```
+````
 
 **Selecionar exercício diretamente:**
 ```bash
@@ -60,11 +65,6 @@ python main.py --exercise 3   # Agachamento
 **Usar arquivo de vídeo:**
 ```bash
 python main.py --source meu_video.mp4
-```
-
-**Webcam alternativa:**
-```bash
-python main.py --camera 1
 ```
 
 ### Teclas durante a sessão
